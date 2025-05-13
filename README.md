@@ -1,6 +1,6 @@
 # Nama Kelompok
 
-Arunika
+Arunika Corp
 
 ## Nama Anggota Kelompok
 
